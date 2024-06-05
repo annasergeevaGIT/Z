@@ -1,10 +1,11 @@
-Welcome to the moon Shooter repository,
+Welcome to the moon Shooter repository!
 
 Prerequisites:
 Windows Operating System
 
 
 Playing Quickstart
+
 shoot: strg
 move: arrows
 jump: space
