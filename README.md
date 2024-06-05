@@ -5,7 +5,6 @@ Windows Operating System
 
 
 Playing Quickstart
-
 shoot: strg
 move: arrows
 jump: space
